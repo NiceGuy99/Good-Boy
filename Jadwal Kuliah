@@ -1,0 +1,110 @@
+<html>
+<head>
+	<title>Jadwal Kuliah</title>
+<link rel="stylesheet" type="text/css" href="Tabel.css">
+<link rel="stylesheet" type="text/css" href="TUGAs1.css">
+</head>
+<body>
+<div id="header">
+Jadwal Kuliah
+</div>
+<br>
+<div class="leftlinks" align="center" >
+	<a href="Beranda.html">Beranda</a>
+	<a href="Riwayatpendidikan.html">Riwayat Pendidikan</a>
+	<a href="Organisasi.html">Organisasi</a>
+	<a href="Jadwalkuliah.html">Jadwal Kuliah</a>
+	<a href="Hobiku.html">Hobiku</a>
+</div>
+<br>
+<br>
+<br>
+<div>
+<table align="center" width="1300" border="1" cellpadding="15" cellspacing="3">
+	<tr>
+		<th width="500"> Mata Kuliah</th>
+		<th width="50"> SKS</th>
+		<th width="200"> Jam</th>
+		<th width="100"> Hari</th>
+		<th width="50"> Kelas</th>
+		<th width="400"> Dosen</th>
+
+	</tr>
+	<tr>
+		<td>Pemrograman Desktop</td>
+		<td>03</td>
+		<td>09.31 - 12.00</td>
+		<td>Senin</td>
+		<td>18A</td>
+		<td>Agung Bramasta Putra, S.kom. M.kom</td>
+	</tr>
+	<tr>
+		<td>Bahasa Indonesia</td>
+		<td>03</td>
+		<td>13.01 - 15.29</td>
+		<td>Senin</td>
+		<td>18A</td>
+		<td>MKDU</td>
+	</tr>
+	<tr>
+		<td>Kewirausahaan</td>
+		<td>03</td>
+		<td>09.31 - 12.00</td>
+		<td>Selasa</td>
+		<td>18A</td>
+		<td>Tri Lathif Mardi Suryanto, S.kom. M.T</td>
+	</tr>
+	<tr>
+		<td>Analisis Desain Terstruktur</td>
+		<td>03</td>
+		<td>09.31 - 12.00</td>
+		<td>Rabu</td>
+		<td>18A</td>
+		<td>Prisa Marga Kusumantara, S.kom. MCs.</td>
+	</tr>
+	<tr>
+		<td>Administrasi Basis Data</td>
+		<td>03</td>
+		<td>13.01 - 15.29</td>
+		<td>Rabu</td>
+		<td>18A</td>
+		<td>Siti Mukaromah, S.Kom. M.Kom</td>
+	</tr>
+	<tr>
+		<td>Pemrograman Web</td>
+		<td>03</td>
+		<td>07.00 - 09.30</td>
+		<td>Rabu</td>
+		<td>18A</td>
+		<td>Dr.Eng Agussalim, S.Pd. M.T </td>
+	</tr>
+	<tr>
+		<td>Matematika Komputasi</td>
+		<td>02</td>
+		<td>09.31 - 12.00</td>
+		<td>Kamis</td>
+		<td>18A</td>
+		<td>Arista Pratama, S.Kom. M.Kom</td>
+	</tr>
+	<tr>
+		<td>Kepemimpinan</td>
+		<td>03</td>
+		<td>13.01 - 15.29</td>
+		<td>Kamis</td>
+		<td>18A</td>
+		<td>Nur Cahyo Wibowo, S.Kom. M.Kom</td>
+	</tr>
+</table>
+</div>
+<br>
+<div id="footer">
+	Sistem Informasi 
+	<br>
+	UPN "Veteran" Jawa Timur
+	<br>
+	Dibuat Oleh : Muhammad Yusuf Ardiansyah (18082010001) 
+	<br>
+	Kontak : 082139820863 (Whatsapp), @myusuf1915 (Instagram), @myusuf1915 (Twitter)
+</div>
+</body>
+</html>
