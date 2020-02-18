@@ -1,0 +1,72 @@
+body {
+    background-color: teal;
+}
+#header {
+    center;
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px;
+    font-size: 30pt;
+    font-family: Comic Sans MS;
+}
+#section {
+    text-align: center;
+    font-family: Comic Sans MS;
+    color: white;
+    font-size: 15;
+}
+.biografi {
+    font-family: Comic Sans MS;
+    background-color: #EDEDED;
+
+    height:300px;
+    width:500px;
+    font-size: 16pt;
+}
+#hobi {
+    font-family: Comic Sans MS;
+    background-color: #EDEDED;
+
+    height:300px;
+    width:690px;
+    font-size: 16pt;
+}
+#footer {
+    center;
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:10px;
+    font-size: 10pt;
+    font-family: Arial;
+}
+<body>
+
+ .leftlinks {
+    border:1px solid turquoise; padding: 5px;
+    margin: 5px;
+    text-align: middle; background-color: turquoise; width: 150px;
+}
+.leftlinks a{
+    display: inline-block; margin: 3px 0px;
+    border-top: 1px solid #4C86C0; border-left: 1px solid #4C86C0;
+    border-right:1px solid #22476C; border-bottom: 1px solid #22476C; padding: 4px 10px;
+    text-align: left; background-color: mediumaquamarine;
+    color: black; text-decoration: none;
+
+
+}
+.leftlinks a:link {
+    color: black;
+}
+.leftlinks a:visited {
+    color: black;
+}
+.leftlinks a:hover {
+    display: inline-block;margin: 3px 0px;
+    border-top: 1px solid #22476C; border-left: 1px solid #22476C;
+    border-bottom: 1px solid #4C86C0;border-right: 1px solid #4C86C0; padding: 5px 9px 3px 11px;
+    text-align:left; background-color: #336699; color: white; text-decoration: none;
+}
+</body>
