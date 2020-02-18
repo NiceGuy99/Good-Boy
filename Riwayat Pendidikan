@@ -1,0 +1,71 @@
+<html>
+<head>
+	<title>Riwayat Pendidikan</title>
+	<link rel="stylesheet" type="text/css" href="TUGAs1.css">
+</head>
+<body>
+	<div id="header">
+Riwayat Pendidikan
+</div>
+<br>
+<div class="leftlinks" align="center">
+	<a href="tugas1.html">Beranda</a>
+	<a href="Riwayatpendidikan.html">Riwayat Pendidikan</a>
+	<a href="Organisasi.html">Organisasi</a>
+	<a href="Jadwalkuliah.html">Jadwal Kuliah</a>
+	<a href="Hobiku.html">Hobiku</a>
+</div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<div>
+<table style="width: 100px" align="center">
+	<tr>
+		<td rowspan="10" width="10px" height="10px" >
+			<img src="fotosma.jpg" width="400" height="300">
+		</td>
+	</tr>
+	<tr>
+		<td>
+		<div class="biografi">
+			- SDN 4 Krian Sidoarjo
+			<br>
+			(Tahun 2006 - 2012)
+			<br>
+			- SMPN 1 Krian Sidoarjo
+			<br>
+			(Tahun 2012 - 2015)
+			<br>
+			- SMAN 1 Wringinanom Gresik
+			(IPA)
+			<br>
+			(Tahun 2015 - 2018)
+			<br>
+			- Universitas Pembangunan Nasional "Veteran" Jawa Timur
+			(Sistem Informasi)
+			<br>
+			(2018 - Sekarang)
+			</div>
+		</td>
+	<td rowspan="10" width="10px" height="10px" >
+			<img src="fotosekarang.jpg" width="400" height="300">
+		</td>
+	</tr>
+	
+</table>
+</div>
+<br>
+<br>
+<div id="footer">
+	Sistem Informasi 
+	<br>
+	UPN "Veteran" Jawa Timur
+	<br>
+	Dibuat Oleh : Muhammad Yusuf Ardiansyah (18082010001) 
+	<br>
+	Kontak : 082139820863 (Whatsapp), @myusuf1915 (Instagram), @myusuf1915 (Twitter)
+</div>
+</body>
+</html>
