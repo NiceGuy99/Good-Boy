@@ -1,0 +1,64 @@
+<html>
+<head>
+	<title>Riwayat Organisasi</title>
+<link rel="stylesheet" type="text/css" href="TUGAs1.css">
+</head>
+<body>
+<div id="header">
+Riwayat Organisasi
+</div>
+<br>
+<div class="leftlinks" align="center">
+	<a href="Beranda.html">Beranda</a>
+	<a href="Riwayatpendidikan.html">Riwayat Pendidikan</a>
+	<a href="Organisasi.html">Organisasi</a>
+	<a href="Jadwalkuliah.html">Jadwal Kuliah</a>
+	<a href="Hobiku.html">Hobiku</a>
+</div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<div>
+<table style="width: 100px" align="center">
+	<tr>
+		<td rowspan="10" width="10px" height="10px">
+			<img src="fotohima.jpg" width="400" height="300">
+		</td>
+	</tr>
+	<tr>
+		<td>
+		<div class="biografi">
+			- Pemilu Raya Sistem Informasi (Ketua)
+			<br>
+			- Himpunan Mahasisa Sistem Informasi 2019 (Advokasi)
+			<br>
+			- Open Talk Sistem Informasi 2019 (Ketua)
+			<br>
+			- Seminar Event of Information System 2019 (Ketua)
+			<br>
+			- Badan Eksekutif Mahasiswa Fakultas Ilmu Komputer 2020 (Advokasi)
+		</div>
+		</td>
+		<td rowspan="10" width="10px" height="10px" >
+			<img src="fotoeis.jpg" width="400" height="300">
+		</td>
+	</tr>
+</table>
+</div>
+<br>
+<br>
+
+<div id="footer">
+	Sistem Informasi 
+	<br>
+	UPN "Veteran" Jawa Timur
+	<br>
+	Dibuat Oleh : Muhammad Yusuf Ardiansyah (18082010001) 
+	<br>
+	Kontak : 082139820863 (Whatsapp), @myusuf1915 (Instagram), @myusuf1915 (Twitter)
+</div>
+
+</body>
+</html>
