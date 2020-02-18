@@ -1,0 +1,20 @@
+th {
+    color: white;
+    background-color: #336699;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    font-size: 10pt;
+    font-family: Comic Sans MS;
+}
+td {
+    color: black;
+    background-color: #E6E6FA;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    font-size: 10pt;
+    font-family: Comic Sans MS;
+}
+p.besar {text-transform: uppercase;}
+            p.kecil {text-transform: lowercase;}
